@@ -1,5 +1,5 @@
 # Cover-letter-automate
-It is a project to automate raw cover letters without polishing
+It is a project to automate raw cover letters no tailered
 
 Requires more time to improve structure and gramma.
 
